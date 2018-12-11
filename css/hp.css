@@ -1,0 +1,13 @@
+body{
+  font-family:"游ゴシック体","Yu Gothic",YuGothic,'Lucida Grande','Hiragino Kaku Gothic ProN',Meiryo,sans-serif;
+  font-weight: 500;
+}
+/* clear*/
+.cf{
+  zoom:1;
+}
+.cf:after{
+  content:'';
+  display:block;
+  clear:both;
+}
